@@ -1,13 +1,49 @@
 {
     "categories": [
-        "https://www.bcsprep.com/questionsincategory.php?catid=1",
-        "https://www.bcsprep.com/questionsincategory.php?catid=2",
-        "https://www.bcsprep.com/questionsincategory.php?catid=3",
-        "https://www.bcsprep.com/questionsincategory.php?catid=4",
-        "https://www.bcsprep.com/questionsincategory.php?catid=8",
-        "https://www.bcsprep.com/questionsincategory.php?catid=29",
-        "https://www.bcsprep.com/questionsincategory.php?catid=31",
-        "https://www.bcsprep.com/questionsincategory.php?catid=64",
-        "https://www.bcsprep.com/questionsincategory.php?catid=65"
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=1",
+            "subject":"Bangla",
+            "total_page": "56"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=2",
+            "subject":"General-Knowledge",
+            "total_page": "32"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=3",
+            "subject":"Bangladesh",
+            "total_page": "44"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=4",
+            "subject":"International",
+            "total_page": "38"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=8",
+            "subject":"Math",
+            "total_page": "21"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=29",
+            "subject":"Geography",
+            "total_page": "6"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=31",
+            "subject":"English",
+            "total_page": "60"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=64",
+            "subject":"Computer",
+            "total_page": "3"
+        },
+        {
+            "url": "https://www.bcsprep.com/questionsincategory.php?catid=65",
+            "subject":"IQ",
+            "total_page": "3"
+        }
     ]
 }

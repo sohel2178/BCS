@@ -1,0 +1,554 @@
+{
+    "questions": [
+        {
+            "question": "If you count 1 to 100, how many 5s will you pass on the way?",
+            "answer": "20",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=288",
+            "options": [
+                "10",
+                "11",
+                "18",
+                "20"
+            ]
+        },
+        {
+            "question": "A farmer had 17 hens.All but 9 died.How many live hens were left ?",
+            "answer": "9",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=289",
+            "options": [
+                "0",
+                "9",
+                "18",
+                "16"
+            ]
+        },
+        {
+            "question": "If two typist can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes.",
+            "answer": "6",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=290",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "18"
+            ]
+        },
+        {
+            "question": "The average of 20 number is zero. Of them, at the most, how many may be greater than zero?",
+            "answer": "19",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=857",
+            "options": [
+                "0",
+                "19",
+                "10",
+                "1"
+            ]
+        },
+        {
+            "question": "9,36,81,144,__?what will be the next num?",
+            "answer": "225",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=1047",
+            "options": [
+                "169",
+                "225",
+                "256",
+                "196"
+            ]
+        },
+        {
+            "question": "\u09e7\u09ef\u09ef\u09ea \u09b8\u09be\u09b2\u09c7\u09b0 \u09e7 \u09b2\u09be \u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0 \u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0 \u09b9\u09b2\u09c7, \u09e7\u09ef\u09ef\u09eb \u09b8\u09be\u09b2\u09c7 \u0990 \u098f\u0995\u0987 \u09a4\u09be\u09b0\u09bf\u0996\u09c7 \u09b9\u09ac\u09c7-",
+            "answer": "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=2972",
+            "options": [
+                "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0",
+                "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0",
+                "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0",
+                "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0"
+            ]
+        },
+        {
+            "question": "\u09b2\u09c1\u09aa\u09cd\u09a4 \u09b8\u0982\u0996\u09cd\u09af\u09be\u099f\u09bf \u0995\u09a4? \u09ee\u09e7, \u09e8\u09ed, ............, \u09e9, \u09e7",
+            "answer": "\u09ef",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=2976",
+            "options": [
+                "\u09ec",
+                "\u09ef",
+                "\u09e7\u09e8",
+                "\u09e7\u09eb"
+            ]
+        },
+        {
+            "question": "\u0987\u09a6\u09be\u09a8\u09bf\u0982 \u0986\u09aa\u09a8\u09be\u09b0 \u09ae\u09a8\u09c7 \u09b9\u099a\u09cd\u099b\u09c7 \u09b8\u0982\u09b8\u09be\u09b0\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac \u09b9\u09cd\u09b0\u09be\u09b8 \u09aa\u09be\u099a\u09cd\u099b\u09c7\u0964 \u0986\u09aa\u09a8\u09bf \u098f\u09ae\u09a8  \u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09df",
+            "answer": "\u09b8\u0982\u09b8\u09be\u09b0-\u098f\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u0997\u09ad\u09c0\u09b0 \u09ae\u09a8\u09cb\u09af\u09cb\u0997 \u09a6\u09c7\u09ac\u09c7\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=3873",
+            "options": [
+                "\u0995\u09cd\u09b7\u09cb\u09ad \u0993 \u09a6\u09c1\u0983\u0996 \u09aa\u09cd\u09b0\u0995\u09be\u09b6 \u0995\u09b0\u09c7 \u09ae\u09a8 \u0996\u09be\u09b0\u09be\u09aa \u0995\u09b0\u09ac\u09c7\u09a8",
+                "\u0996\u09c1\u09ac\u0987 \u09b9\u09a4\u09be\u09b6\u09be\u09ac\u09cb\u09a7 \u0995\u09b0\u09ac\u09c7\u09a8",
+                "\u09ac\u09a8\u09cd\u09a7\u09c1\u09a6\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09ac\u09bf\u09b7\u09df\u099f\u09bf \u0986\u09b2\u09be\u09aa \u0995\u09b0\u09ac\u09c7\u09a8",
+                "\u09b8\u0982\u09b8\u09be\u09b0-\u098f\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u0997\u09ad\u09c0\u09b0 \u09ae\u09a8\u09cb\u09af\u09cb\u0997 \u09a6\u09c7\u09ac\u09c7\u09a8"
+            ]
+        },
+        {
+            "question": "\u0986\u09ae\u09be\u09b0 \u0995\u0995\u09cd\u09b7\u09c7 \u098f\u0995 \u09ac\u09c3\u09a6\u09cd\u09a7 \u09a6\u09ae\u09cd\u09aa\u09a4\u09bf \u0993 \u09a4\u09be\u09a6\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09a6\u09c1\u0987 \u09a6\u09ae\u09cd\u09aa\u09a4\u09bf \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995\u09c7 \u09a6\u09c1\u0987\u099c\u09a8 \u0995\u09b0\u09c7 \u09b8\u09a8\u09cd\u09a4\u09be\u09a8\u09b8\u09b9 \u0986\u09ae\u09be\u09b0 \u0995\u0995\u09cd\u09b7\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09b2\u09c7\u09a8\u0964 \u0986\u09ae\u09be\u09b0 \u0995\u0995\u09cd\u09b7\u09c7 \u09ae\u09cb\u099f \u0995\u09a4\u099c\u09a8 \u09b2\u09cb\u0995 \u09b9\u09b2?",
+            "answer": "\u09e7\u09e7",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=3874",
+            "options": [
+                "\u09ef",
+                "\u09e7\u09e6",
+                "\u09e7\u09e7",
+                "\u09e7\u09e8"
+            ]
+        },
+        {
+            "question": "\u0995 \u0996-\u098f\u09b0 \u09aa\u09c1\u09a4\u09cd\u09b0\u0964 \u0996 \u098f\u09ac\u0982 \u0997 \u09aa\u09b0\u09b8\u09cd\u09aa\u09b0 \u09ac\u09cb\u09a8\u0964 \u0998 \u09b9\u099a\u09cd\u099b\u09c7 \u0997-\u098f\u09b0 \u09ae\u09be, \u099a, \u0998-\u098f\u09b0 \u09aa\u09c1\u09a4\u09cd\u09b0\u0964 \u099a-\u098f\u09b0 \u09b8\u0982\u0997\u09c7 \u0995-\u098f\u09b0 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995 \u0995\u09bf?",
+            "answer": "\u0995 \u098f\u09b0 \u09ae\u09be\u09ae\u09be \u099a",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=3875",
+            "options": [
+                "\u0995 \u098f\u09b0 \u09ae\u09be\u09ae\u09be \u099a",
+                "\u0995 \u098f\u09b0 \u0996\u09be\u09b2\u09c1 \u099a",
+                "\u099a \u098f\u09b0 \u09a8\u09be\u09a8\u09be \u0995",
+                "\u0995 \u098f\u09b0 \u099a\u09be\u099a\u09be \u099a"
+            ]
+        },
+        {
+            "question": "\u099b\u09ac\u09bf \u09a6\u09c7\u0996\u09c1\u09a8 http://bcsprep.com/blog/wp-content/uploads/2013/12/shape.png",
+            "answer": "T, X",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=3877",
+            "options": [
+                "T, X",
+                "X, T",
+                "S, T",
+                "T, B"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u09ad\u09c2\u09b2??",
+            "answer": "\u09e7/\u09e6",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=3901",
+            "options": [
+                "\u09e6*\u09e7",
+                "\u09e7*\u09e6",
+                "\u09e7/\u09e6",
+                "\u09e6/\u09e7"
+            ]
+        },
+        {
+            "question": "\u09ae\u09be\u09a8\u09c1\u09b7\u0987 \u098f\u0995\u09ae\u09be\u09a4\u09cd\u09b0 \u09aa\u09cd\u09b0\u09be\u09a3\u09c0 \u09af\u09c7 ------- \u09ac\u09cd\u09af\u09be\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7?",
+            "answer": "\u0986\u0997\u09c1\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4020",
+            "options": [
+                "\u0996\u09be\u09a6\u09cd\u09af",
+                "\u09aa\u09be\u09a8\u09bf",
+                "\u0986\u0997\u09c1\u09a8",
+                "\u09b2\u09be\u09a0\u09bf"
+            ]
+        },
+        {
+            "question": "\u09ae\u09be\u09a4\u09be \u09aa\u09bf\u09a4\u09be\u0995\u09c7 \u09b6\u09cd\u09b0\u09a6\u09cd\u09a7\u09be \u0995\u09b0\u09be \u0986\u09ae\u09be\u09a6\u09c7\u09b0 -----",
+            "answer": "\u0995\u09b0\u09cd\u09a4\u09ac\u09cd\u09af",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4021",
+            "options": [
+                "\u09aa\u09cd\u09b0\u09a5\u09be",
+                "\u0995\u09b0\u09cd\u09a4\u09ac\u09cd\u09af",
+                "\u09a8\u09bf\u09df\u09ae",
+                "\u09a7\u09b0\u09cd\u09ae"
+            ]
+        },
+        {
+            "question": "\u09ae\u09b9\u09bf\u09b2\u09be\u099f\u09bf\u09b0 \u098f\u0995\u09be\u09a7\u09bf\u0995 \u09b6\u09be\u09dc\u09c0 \u09aa\u099b\u09a8\u09cd\u09a6 \u09b9\u09df\u09c7\u099b\u09bf\u09b2\u0964 \u09b8\u09c7\u099c\u09a8\u09cd\u09af \u09a4\u09bf\u09a8\u09bf ----- \u09b9\u09df\u09c7\u099b\u09bf\u09b2\u09c7\u09a8",
+            "answer": "\u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4\u09b9\u09c0\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4022",
+            "options": [
+                "\u09b8\u09bf\u09a6\u09cd\u09a7\u09be\u09a8\u09cd\u09a4\u09b9\u09c0\u09a8",
+                "\u0985\u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4",
+                "\u09ac\u09bf\u09ae\u09b0\u09cd\u09b7",
+                "\u0989\u09ce\u09ab\u09c1\u09b2\u09cd\u09b2"
+            ]
+        },
+        {
+            "question": "You should ask the ------ about the train timing",
+            "answer": "Information Desk",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4025",
+            "options": [
+                "Station Master",
+                "Information Desk",
+                "Ticket Checker",
+                "Railway Police"
+            ]
+        },
+        {
+            "question": "The house needs a new ----- of paint?",
+            "answer": "coat",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4026",
+            "options": [
+                "look",
+                "stroke",
+                "coat",
+                "color"
+            ]
+        },
+        {
+            "question": "\u0989\u09a7\u09b0\u09cd\u09a4\u09a8 \u0995\u09b0\u09cd\u09ae\u0995\u09b0\u09cd\u09a4\u09be \u098f\u0995 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u09be\u0987\u09b0\u09c7 \u09af\u09be\u09ac\u09c7\u09a8 \u09ac\u09b2\u09c7 \u09b8\u09be\u09b2\u09ae\u09be\u09a8\u0995\u09c7 \u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be\u099f\u09be ---- \u09a6\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7?",
+            "answer": "\u09b8\u09ae\u09df\u09c7\u09b0 \u0986\u0997\u09c7",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4027",
+            "options": [
+                "\u09b8\u09ae\u09df\u09c7\u09b0 \u0986\u0997\u09c7",
+                "\u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09c7\u0995\u0995\u09c7",
+                "\u09ac\u09be\u09b8\u09cd\u09a4\u09ac\u09be\u09df\u09a8 \u0995\u09b0\u09c7",
+                "\u09b6\u09c7\u09b7 \u0995\u09b0\u09c7"
+            ]
+        },
+        {
+            "question": "May I trouble you to ------ the glass",
+            "answer": "handover",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4030",
+            "options": [
+                "pass",
+                "take",
+                "handover",
+                "none of this"
+            ]
+        },
+        {
+            "question": "I did not ------- to attend the function but I had to",
+            "answer": "want",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4031",
+            "options": [
+                "want",
+                "decide",
+                "think",
+                "bother"
+            ]
+        },
+        {
+            "question": "Building : Inaguaration :: Ship:",
+            "answer": "Harbour",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4032",
+            "options": [
+                "Charter",
+                "Captain",
+                "Harbour",
+                "Deck"
+            ]
+        },
+        {
+            "question": "Retreat:Withdraw:: Fail:",
+            "answer": "Miss",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4034",
+            "options": [
+                "Miss",
+                "Conquer",
+                "Foil",
+                "Baffle"
+            ]
+        },
+        {
+            "question": "\u09aa\u09c3\u09a5\u09bf\u09ac\u09c0\u0983\u09b8\u09c2\u09b0\u09cd\u09af :: \u099a\u09be\u09a6\u0983",
+            "answer": "\u09aa\u09c3\u09a5\u09bf\u09ac\u09c0",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4035",
+            "options": [
+                "\u0997\u09cd\u09b0\u09b9",
+                "\u09aa\u09c3\u09a5\u09bf\u09ac\u09c0",
+                "\u09a8\u0995\u09cd\u09b7\u09a4\u09cd\u09b0",
+                "\u09a4\u09be\u09b0\u0995\u09be"
+            ]
+        },
+        {
+            "question": "\u099d\u09dc\u0983\u0995\u09ae\u09cd\u09aa\u09a8 \u0983\u0983 \u09ac\u09bf\u09aa\u09cd\u09b2\u09ac\u0983",
+            "answer": "\u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4036",
+            "options": [
+                "\u09a7\u09cd\u09ac\u0982\u09b8",
+                "\u09aa\u09cd\u09b0\u09b2\u09df",
+                "\u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09a8",
+                "\u09aa\u09a4\u09a8"
+            ]
+        },
+        {
+            "question": "Cloud:Rain:: Vapour:",
+            "answer": "Moisture",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4038",
+            "options": [
+                "Moisture",
+                "Cold",
+                "Wet",
+                "Heat"
+            ]
+        },
+        {
+            "question": "\u09ae\u09a8\u09c0\u09b7\u09be\u0983\u09ac\u09c1\u09a6\u09cd\u09a7\u09bf \u0983\u0983 \u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce\u0983",
+            "answer": "\u0986\u09b2\u09cb",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4039",
+            "options": [
+                "\u0997\u09a4\u09bf",
+                "\u09aa\u09cd\u09b0\u09a4\u09bf\u09ad\u09be",
+                "\u0986\u09b2\u09cb",
+                "\u0985\u09a8\u09c1\u09ad\u09ac"
+            ]
+        },
+        {
+            "question": "\u09aa\u09cd\u09b0\u09be\u09b8\u09be\u09a6\u0983 \u09ae\u09be\u09a8\u09ac \u0964\u0964 \u09a8\u09c0\u09dc\u0983",
+            "answer": "\u09ac\u09bf\u09b9\u0997",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4040",
+            "options": [
+                "\u09ac\u09bf\u09b9\u0997",
+                "\u09a8\u09c7\u0995\u09dc\u09c7",
+                "\u09a6\u09be\u09a8\u09ac",
+                "\u09b8\u09b0\u09cd\u09aa"
+            ]
+        },
+        {
+            "question": "\u09aa\u09b0\u09bf\u09b6\u09c0\u09b2\u09a8\u0983\u0989\u09ce\u0995\u09b0\u09cd\u09b7 \u0964\u0964 \u09b8\u09cd\u09a5\u09ac\u09bf\u09b0\u09a4\u09be\u0983",
+            "answer": "\u0985\u09ac\u09a8\u09a4\u09bf",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4041",
+            "options": [
+                "\u09a8\u09bf\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09df\u09a4\u09be",
+                "\u0985\u09ac\u09a8\u09a4\u09bf",
+                "\u0989\u09a8\u09cd\u09a8\u09a4\u09bf",
+                "\u0995\u09cb\u09a8\u099f\u09bf\u0987 \u09a8\u09df"
+            ]
+        },
+        {
+            "question": "\u09ae\u09a8\u09c7 \u0995\u09b0\u09c1\u09a8 \u0986\u09aa\u09a8\u09bf \u09b2\u099f\u09be\u09b0\u09c0\u09a4\u09c7 \u09e7\u09e6\u09b2\u0995\u09cd\u09b7 \u099f\u09be\u0995\u09be \u099c\u09bf\u09a4\u09b2\u09c7\u09a8\u0964 \u098f\u0996\u09a8 \u0986\u09aa\u09a8\u09bf \u0995\u09c0 \u0995\u09b0\u09ac\u09c7\u09a8",
+            "answer": "\u09b8\u099e\u09cd\u099a\u09df\u09aa\u09a4\u09cd\u09b0\u09c7 \u099f\u09be\u0995\u09be \u09b2\u09be\u0997\u09be\u09ac\u09c7\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4042",
+            "options": [
+                "\u0997\u09be\u09dc\u09c0 \u0995\u09bf\u09a8\u09ac\u09c7\u09a8, \u09b0\u09c7\u09a8\u09cd\u099f \u098f \u0995\u09be\u09b0\u09c7 \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u099c\u09a8\u09cd\u09af",
+                "\u09b6\u09c7\u09df\u09be\u09b0 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u09ac\u09bf\u09a8\u09bf\u09df\u09cb\u0997 \u0995\u09b0\u09ac\u09c7\u09a8",
+                "\u09b8\u099e\u09cd\u099a\u09df\u09aa\u09a4\u09cd\u09b0\u09c7 \u099f\u09be\u0995\u09be \u09b2\u09be\u0997\u09be\u09ac\u09c7\u09a8",
+                "\u0986\u09b0\u0993 \u099f\u09be\u0995\u09be \u09aa\u09be\u0993\u09df\u09be\u09b0 \u0986\u09b6\u09be\u09df \u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0 \u09b2\u099f\u09be\u09b0\u09c0 \u09a1\u09cd\u09b0\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0986\u09b6\u09be \u0995\u09b0\u09c7 \u09ac\u09b8\u09c7 \u09a5\u09be\u0995\u09ac\u09c7\u09a8"
+            ]
+        },
+        {
+            "question": "It is impossible to imagine a flower without -----------",
+            "answer": "a bud",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4044",
+            "options": [
+                "fragrance",
+                "a vase",
+                "a florist",
+                "a bud"
+            ]
+        },
+        {
+            "question": "It is impossible to learn------------",
+            "answer": "without help",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4045",
+            "options": [
+                "without help",
+                "without reading",
+                "without teacher",
+                "without writing"
+            ]
+        },
+        {
+            "question": "----------- \u099b\u09be\u09dc\u09be \u09ac\u09be\u099c\u09be\u09b0 \u09b9\u09df\u09a8\u09be",
+            "answer": "\u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u09ac\u09cd\u09af\u09be\u09ac\u09b8\u09cd\u09a5\u09be",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4046",
+            "options": [
+                "\u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u09ac\u09cd\u09af\u09be\u09ac\u09b8\u09cd\u09a5\u09be",
+                "\u0995\u09cd\u09b0\u09c7\u09a4\u09be",
+                "\u09ac\u09bf\u0995\u09cd\u09b0\u09c7\u09a4\u09be",
+                "\u09a6\u09cb\u0995\u09be\u09a8"
+            ]
+        },
+        {
+            "question": "--------- \u099b\u09be\u09dc\u09be \u0986\u09a7\u09c1\u09a8\u09bf\u0995 \u099c\u09c0\u09ac\u09a8 \u09af\u09be\u09aa\u09a8 \u0985\u09b8\u09ae\u09cd\u09ad\u09ac",
+            "answer": "\u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4047",
+            "options": [
+                "\u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce",
+                "\u0997\u09be\u09dc\u09bf",
+                "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f",
+                "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0"
+            ]
+        },
+        {
+            "question": "It is impossible to imagine a contest without------------",
+            "answer": "opponent",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4048",
+            "options": [
+                "spectator",
+                "opponent",
+                "applause",
+                "umpire"
+            ]
+        },
+        {
+            "question": "It is impossible to cook without ------------",
+            "answer": "heat",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4049",
+            "options": [
+                "Water",
+                "pot",
+                "heat",
+                "spice"
+            ]
+        },
+        {
+            "question": "--------- \u099b\u09be\u09dc\u09be \u09b8\u09c7\u09b2\u09be\u0987 \u0995\u09b0\u09be \u0985\u09b8\u09ae\u09cd\u09ad\u09ac",
+            "answer": "\u09b8\u09c2\u099a",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4050",
+            "options": [
+                "\u09b8\u09c2\u099a",
+                "\u09ae\u09c7\u09b6\u09bf\u09a8",
+                "\u09b8\u09c1\u09a4\u09be",
+                "\u09a6\u09b0\u09cd\u099c\u09bf"
+            ]
+        },
+        {
+            "question": "----------- \u099b\u09be\u09dc\u09be \u09ad\u09be\u09b2\u09cb \u099b\u09be\u09a4\u09cd\u09b0 \u09b9\u0993\u09df\u09be \u09af\u09be\u09df \u09a8\u09be",
+            "answer": "\u0985\u09a7\u09cd\u09af\u09be\u09ac\u09b8\u09be\u09df",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4051",
+            "options": [
+                "\u09ae\u09c7\u09a7\u09be",
+                "\u09b6\u09cd\u09b0\u09ae",
+                "\u0985\u09a7\u09cd\u09af\u09be\u09ac\u09b8\u09be\u09df",
+                "\u09b8\u09ae\u09df\u09a8\u09bf\u09b7\u09cd\u09a0\u09be"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u0986\u09b2\u09be\u09a6\u09be?",
+            "answer": "\u09b6\u09c7\u09b7\u09c7\u09b0 \u0995\u09ac\u09bf\u09a4\u09be",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4052",
+            "options": [
+                "\u09ae\u09be\u09a8\u09b8\u09c0",
+                "\u09b8\u09cb\u09a8\u09be\u09b0 \u09a4\u09b0\u09c0",
+                "\u0995\u09cd\u09b7\u09a3\u09bf\u0995\u09be",
+                "\u09b6\u09c7\u09b7\u09c7\u09b0 \u0995\u09ac\u09bf\u09a4\u09be"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u0986\u09b2\u09be\u09a6\u09be?",
+            "answer": "\u09b9\u09be\u0993\u09df\u09be\u0987",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4053",
+            "options": [
+                "\u09a2\u09be\u0995\u09be",
+                "\u09a6\u09bf\u09b2\u09cd\u09b2\u09c0",
+                "\u0987\u09b8\u09b2\u09be\u09ae\u09be\u09ac\u09be\u09a6",
+                "\u09b9\u09be\u0993\u09df\u09be\u0987"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u0986\u09b2\u09be\u09a6\u09be?",
+            "answer": "\u09b8\u09c7\u09a8\u09cd\u099f \u09b9\u09c7\u09b2\u09c7\u09a8\u09be",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4054",
+            "options": [
+                "\u099c\u09be\u09ad\u09be",
+                "\u09b8\u09c7\u09a8\u09cd\u099f \u09b9\u09c7\u09b2\u09c7\u09a8\u09be",
+                "\u09b8\u09c1\u09ae\u09be\u09a4\u09cd\u09b0\u09be",
+                "\u09ae\u09be\u09a6\u09be\u0997\u09be\u09b8\u09cd\u0995\u09be\u09b0"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u0986\u09b2\u09be\u09a6\u09be?",
+            "answer": "\u0986\u09b2\u09c1",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4055",
+            "options": [
+                "\u0986\u09b2\u09c1",
+                "\u09aa\u099f\u09b2",
+                "\u09ab\u09c1\u09b2\u0995\u09aa\u09bf",
+                "\u09ac\u09c7\u0997\u09c1\u09a8"
+            ]
+        },
+        {
+            "question": "\u0995\u09cb\u09a8\u099f\u09bf \u0986\u09b2\u09be\u09a6\u09be?",
+            "answer": "\u09b6\u09cd\u09b0\u09ae\u099c\u09c0\u09ac\u09c0",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4056",
+            "options": [
+                "\u09b6\u09b0\u09c0\u0995",
+                "\u09b6\u09bf\u09b0\u09cb\u09a3\u09be\u09ae",
+                "\u09b6\u09b7\u09cd\u09af",
+                "\u09b6\u09cd\u09b0\u09ae\u099c\u09c0\u09ac\u09c0"
+            ]
+        },
+        {
+            "question": "Which is dissimilar?",
+            "answer": "Japan",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4057",
+            "options": [
+                "Bangladesh",
+                "India",
+                "Japan",
+                "Pakistan"
+            ]
+        },
+        {
+            "question": "Which is dissimilar?",
+            "answer": "Brazil",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4058",
+            "options": [
+                "France",
+                "Germany",
+                "Brazil",
+                "Netherland"
+            ]
+        },
+        {
+            "question": "Which is dissimilar?",
+            "answer": "16",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4059",
+            "options": [
+                "16",
+                "23",
+                "97",
+                "89"
+            ]
+        },
+        {
+            "question": "\u0986\u09aa\u09a8\u09be\u09b0 \u09ac\u09be\u09ac\u09be\u09b0 \u09ac\u09cb\u09a8\u09c7\u09b0 \u09ac\u09be\u09ac\u09be\u09b0 \u09a8\u09be\u09a4\u09bf\u09b0 \u09ac\u09be\u09ac\u09be\u09b0 \u09ae\u09c7\u09df\u09c7\u09b0 \u099b\u09c7\u09b2\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09bf \u09b9\u09df",
+            "answer": "\u09ad\u09be\u0997\u09cd\u09a8\u09c7",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4060",
+            "options": [
+                "\u09ad\u09be\u0987",
+                "\u099a\u09be\u099a\u09be",
+                "\u09ad\u09be\u0997\u09cd\u09a8\u09c7",
+                "\u09ae\u09be\u09ae\u09be"
+            ]
+        },
+        {
+            "question": "\u0986\u09aa\u09a8\u09be\u09b0 \u09a6\u09be\u09a6\u09be\u09b0 \u099b\u09c7\u09b2\u09c7\u09b0 \u09a8\u09be\u09a4\u09bf\u09b0 \u09ac\u09be\u09ac\u09be\u09b0 \u09b8\u09cd\u09a4\u09cd\u09b0\u09c0\u09b0 \u09ae\u09be \u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09bf \u09b9\u09df?",
+            "answer": "\u09b6\u09cd\u09ac\u09be\u09b6\u09c1\u09dc\u09c0",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4061",
+            "options": [
+                "\u09a6\u09be\u09a6\u09c0",
+                "\u09a8\u09be\u09a8\u09c0",
+                "\u09ae\u09be",
+                "\u09b6\u09cd\u09ac\u09be\u09b6\u09c1\u09dc\u09c0"
+            ]
+        },
+        {
+            "question": "\u09b8\u09be\u09df\u09c7\u09ae \u09ae\u09a8\u09bf\u09b0\u0995\u09c7 \u09ac\u09b2\u09b2, \u09a4\u09cb\u09ae\u09be\u09b0 \u099a\u09be\u099a\u09be \u0986\u09ae\u09be\u09b0 \u09ae\u09be\u09df\u09c7\u09b0 \u09ad\u09be\u0987\u0964 \u09a4\u09be\u09b9\u09b2\u09c7 \u09b8\u09be\u09df\u09c7\u09ae \u09ae\u09a8\u09bf\u09b0\u09c7\u09b0 \u0995\u09bf \u09b9\u09df?",
+            "answer": "\u09ab\u09c1\u09aa\u09be\u09a4\u09cb \u09ad\u09be\u0987",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=4062",
+            "options": [
+                "\u099a\u09be\u099a\u09be\u09a4\u09cb \u09ad\u09be\u0987",
+                "\u0996\u09be\u09b2\u09be\u09a4\u09cb \u09ad\u09be\u0987",
+                "\u09ae\u09be\u09ae\u09be\u09a4\u09cb \u09ad\u09be\u0987",
+                "\u09ab\u09c1\u09aa\u09be\u09a4\u09cb \u09ad\u09be\u0987"
+            ]
+        },
+        {
+            "question": "\u0986\u09a6\u09bf\u09ae \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09b8\u09ac\u099a\u09c7\u09df\u09c7 \u09ac\u09dc \u0986\u09ac\u09bf\u09b7\u09cd\u0995\u09be\u09b0 \u0995\u09bf?  ",
+            "answer": "\u0986\u0997\u09c1\u09a8",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=5999",
+            "options": [
+                "\u09ad\u09be\u09b7\u09be",
+                "\u0995\u09c3\u09b7\u09bf",
+                "\u09b2\u09cb\u09b9\u09be",
+                "\u0986\u0997\u09c1\u09a8"
+            ]
+        },
+        {
+            "question": "\u09aa\u09be\u09a8\u09bf \u09ad\u09b0\u09cd\u09a4\u09bf \u098f\u0995\u099f\u09bf \u09ac\u09be\u09b2\u09a4\u09bf\u09b0 \u0993\u099c\u09a8 \u09ac\u09be\u09b0 \u0995\u09c7\u099c\u09bf\u0964 \u09ac\u09be\u09b2\u09a4\u09bf\u09b0 \u0985\u09b0\u09cd\u09a7\u09c7\u0995 \u09aa\u09be\u09a8\u09bf \u09ad\u09b0\u09cd\u09a4\u09bf \u09b9\u09b2\u09c7 \u0993\u099c\u09a8 \u09a6\u09be\u0981\u09dc\u09be\u09df \u09ed \u0995\u09c7\u099c\u09bf\u0964 \u0996\u09be\u09b2\u09bf \u09ac\u09be\u09b2\u09a4\u09bf\u09b0 \u0993\u099c\u09a8 \u0995\u09a4?",
+            "answer": "\u09e8 \u0995\u09c7\u099c\u09bf",
+            "options_url": "https://www.bcsprep.com/questiondetails.php?catid=65&qid=6163",
+            "options": [
+                "\u09eb \u0995\u09c7\u099c\u09bf",
+                "\u09ed \u0995\u09c7\u099c\u09bf",
+                "\u09e8 \u0995\u09c7\u099c\u09bf",
+                "\u09e7 \u0995\u09c7\u099c\u09bf"
+            ]
+        }
+    ]
+}
